@@ -48,7 +48,7 @@
 ### Установка
 
 ```bash
-git clone https://github.com/ВАШ_НИК/diabetes-predictor
+git clone https://github.com/maxim-ivantsov/DiabetesPredictor
 cd diabetes-predictor
 pip install -r requirements.txt
 python main.py
